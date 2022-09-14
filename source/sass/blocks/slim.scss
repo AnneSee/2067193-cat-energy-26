@@ -16,7 +16,8 @@
 
 .slim__title::before {
   content: "";
-  background-image: url("../../img/decor/cat-slim.png");
+  display: block;
+  background-image: url("/source/img/decor/cat-slim.svg");
   background-repeat: no-repeat;
   width: 50px;
   height: 53px;
